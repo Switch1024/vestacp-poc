@@ -1,2 +1,2 @@
 # vestacp-poc
-A PoC or the VestaCP command injection vulnerability
+A PoC for the VestaCP command injection vulnerability
